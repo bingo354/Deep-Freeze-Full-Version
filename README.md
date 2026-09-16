@@ -239,4 +239,4 @@ This repository serves as the official landing page for Deep Freeze. The softwar
 **Get the most recent version of Deep Freeze today!**
 
 ---
-**Last updated:** 2026-09-16 13:53:13 UTC
+**Last updated:** 2026-09-16 17:51:29 UTC
